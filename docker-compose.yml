@@ -3,4 +3,4 @@ services:
     agar:
         build: .
         ports:
-            - 3000:3564
+            - 3564:3000
